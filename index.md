@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## به سایت کودکانه ما خوش امدید
 
 You can use the [editor on GitHub](https://github.com/sazhul/kids/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
